@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Redouane KHAM</h1>
 <h3 align="center">A passionate RoR full stack developer</h3>
 
-- 🌱 I’m currently learning **React**
-
 - 👯 I’m looking to collaborate on **RoR projects**
-
+ 
 - 📫 How to reach me **redouane.kham.iwhp@gmail.com**
+  
 - All of my projects are available at [[https://troopl.com/redouane.kham](https://troopl.com/redouanekham)]
 
 <h3 align="left">Connect with me:</h3>
